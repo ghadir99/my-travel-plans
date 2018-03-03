@@ -45,7 +45,9 @@ margin: 0;
 transform: rotate(-45deg);
 text-shadow: 0 0 5px #01579b;
 }
-
+#Barcelona{
+background-color: #f4c842;
+} 
 #florida {
 background-color: #03a9f4;
 }
